@@ -1,0 +1,36 @@
+{
+    "profiles": {
+        "defaults": {
+            "colorScheme": "One Dark"
+        }
+    },
+
+    "schemes": [
+        {
+            "name" : "One Dark",
+
+            "cursorColor": "#FFFFFF",
+            "selectionBackground": "#FFFFFF",
+
+            "background" : "#282c34", // OD: background
+            "foreground" : "#abb2bf", // OD: mono-1
+
+            "black" : "#232c34", // OD: background
+            "blue" : "#61afef", // OD: blue
+            "cyan" : "#56b6c2", // OD: cyan
+            "green" : "#98c379", // OD: green
+            "purple" : "#c678dd", // OD: purple
+            "red" : "#e06c75", // OD: red1
+            "white" : "#abb2bf", // OD: mono-1
+            "yellow" : "#d19a66", // OD: orange1
+            "brightBlack" : "#828997", // OD: mono-2
+            "brightBlue" : "#61afef", // OD: blue
+            "brightCyan" : "#56b6c2", // OD: cyan
+            "brightGreen" : "#98c379", // OD: green
+            "brightPurple" : "#c678dd", // OD: purple
+            "brightRed" : "#e5847b", // OD: red2
+            "brightWhite" : "#f2f2f2", // OD: -
+            "brightYellow" : "#e5c07b" // OD: orange2
+        }
+    ]
+}
